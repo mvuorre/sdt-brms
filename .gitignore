@@ -1,0 +1,9 @@
+*cache/
+*_files/
+_freeze/
+docs/
+.Renviron
+
+/.quarto/
+**/*.quarto_ipynb
+.Rproj.user

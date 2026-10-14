@@ -1,0 +1,12 @@
+project:
+  render:
+    - index.qmd
+  output-dir: docs
+
+site-url: https://mvuorre.github.io/heterogeneity-uncertainty
+repo-url: https://github.com/mvuorre/heterogeneity-uncertainty
+archive-url: TODO
+preprint-url: https://osf.io/preprints/psyarxiv/vtfc3
+
+execute:
+  freeze: auto
