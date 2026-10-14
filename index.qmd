@@ -29,7 +29,6 @@ authornote: |
 format:
   preprint-typst:
     theme: jou
-    output-file: ms.pdf
     section-numbering: "1."
     toc: true
     toc-depth: 1

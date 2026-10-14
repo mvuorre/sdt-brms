@@ -16,4 +16,7 @@ ms.docx: $(SOURCE)
 clean:
 	rm -rf *_cache *_files _freeze docs/
 
-.PHONY: renv clean
+publish:
+	quarto publish gh-pages --no-prompt
+
+.PHONY: renv clean publish
