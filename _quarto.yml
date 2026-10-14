@@ -3,8 +3,8 @@ project:
     - index.qmd
   output-dir: docs
 
-site-url: https://mvuorre.github.io/heterogeneity-uncertainty
-repo-url: https://github.com/mvuorre/heterogeneity-uncertainty
+site-url: https://mvuorre.github.io/sdt-regression
+repo-url: https://github.com/mvuorre/sdt-regression
 archive-url: TODO
 preprint-url: https://osf.io/preprints/psyarxiv/vtfc3
 
